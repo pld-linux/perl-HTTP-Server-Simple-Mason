@@ -8,7 +8,7 @@
 Summary:	HTTP::Server::Simple::Mason - An abstract baseclass for a standalone mason server
 Name:		perl-HTTP-Server-Simple-Mason
 Version:	0.09
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
