@@ -7,13 +7,13 @@
 %define	pnam	Server-Simple-Mason
 Summary:	HTTP::Server::Simple::Mason - An abstract baseclass for a standalone mason server
 Name:		perl-HTTP-Server-Simple-Mason
-Version:	0.13
+Version:	0.14
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/J/JE/JESSE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	002d315a559e86ba62f7d826fbcc9b89
+# Source0-md5:	6bbceccb5e4f276b7b56b8b993bf252b
 URL:		http://search.cpan.org/dist/HTTP-Server-Simple-Mason/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
