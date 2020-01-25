@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	tests		# perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	HTTP
 %define	pnam	Server-Simple-Mason
 Summary:	HTTP::Server::Simple::Mason - An abstract baseclass for a standalone mason server
